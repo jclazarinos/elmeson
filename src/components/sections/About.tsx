@@ -37,7 +37,7 @@ const About = () => {
             transition={{ duration: 0.8 }}
             className="bg-gray-300 h-96 rounded-lg flex items-center justify-center"
           >
-            <span className="text-gray-500">[Imagen del restaurante]</span>
+            <span className="text-gray-500">[Imagen del local]</span>
           </motion.div>
         </div>
       </div>

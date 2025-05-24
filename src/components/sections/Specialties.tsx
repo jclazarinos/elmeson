@@ -55,7 +55,7 @@ const Specialties = () => {
               <div className="h-48 bg-gray-300 relative">
                 {/* Aquí iría la imagen */}
                 <div className="absolute inset-0 flex items-center justify-center text-gray-500">
-                  [Imagen del plato]
+                  [Imagen del evento]
                 </div>
               </div>
               <div className="p-6">

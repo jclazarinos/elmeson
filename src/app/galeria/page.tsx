@@ -8,10 +8,10 @@ export default function GaleriaPage() {
 
   const images = [
     { id: 1, category: 'platos', alt: 'Plato gourmet 1' },
-    { id: 2, category: 'ambiente', alt: 'Interior del restaurante' },
+    { id: 2, category: 'ambiente', alt: 'Interior del local' },
     { id: 3, category: 'platos', alt: 'Plato gourmet 2' },
     { id: 4, category: 'eventos', alt: 'Evento especial' },
-    { id: 5, category: 'ambiente', alt: 'Terraza exterior' },
+    { id: 5, category: 'ambiente', alt: 'Jardines del Mesón' },
     { id: 6, category: 'platos', alt: 'Plato gourmet 3' },
     { id: 7, category: 'eventos', alt: 'Celebración privada' },
     { id: 8, category: 'platos', alt: 'Postre especial' },
